@@ -1,4 +1,5 @@
-# 多tab页
+# 多 tab 页
 
-基于ant design pro和antd-pro-page-tabs
+基于 ant design pro 和 antd-pro-page-tabs
 
+![demo](./public/demo.gif)
